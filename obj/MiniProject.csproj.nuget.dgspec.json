@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Drive3.SEDNA\\source\\repos\\MiniProject\\MiniProject.csproj": {}
+    "C:\\Users\\Drive3.SEDNA\\source\\repos\\MiniProject\\Esfa_Micro_Project\\MiniProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Drive3.SEDNA\\source\\repos\\MiniProject\\MiniProject.csproj": {
+    "C:\\Users\\Drive3.SEDNA\\source\\repos\\MiniProject\\Esfa_Micro_Project\\MiniProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Drive3.SEDNA\\source\\repos\\MiniProject\\MiniProject.csproj",
+        "projectUniqueName": "C:\\Users\\Drive3.SEDNA\\source\\repos\\MiniProject\\Esfa_Micro_Project\\MiniProject.csproj",
         "projectName": "MiniProject",
-        "projectPath": "C:\\Users\\Drive3.SEDNA\\source\\repos\\MiniProject\\MiniProject.csproj",
+        "projectPath": "C:\\Users\\Drive3.SEDNA\\source\\repos\\MiniProject\\Esfa_Micro_Project\\MiniProject.csproj",
         "packagesPath": "C:\\Users\\Drive3.SEDNA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Drive3.SEDNA\\source\\repos\\MiniProject\\obj\\",
+        "outputPath": "C:\\Users\\Drive3.SEDNA\\source\\repos\\MiniProject\\Esfa_Micro_Project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

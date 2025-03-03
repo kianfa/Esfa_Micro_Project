@@ -5,9 +5,64 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MiniProject"
         mc:Ignorable="d"
-        Title="Esfa Corporation Micro Project - V0.0.1" Height="600" Width="920
-">
-    <Grid>
+        Title="Esfa Corporation Micro Project - V0.0.1"
+        Height="600" Width="920"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        Background="Transparent"
+        AllowsTransparency="True">
+    <Border Background="#272537"
+                CornerRadius="20">
 
-    </Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width=" 200"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="75"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Text="TEXT"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Left"
+            Foreground="White"
+            FontSize="22"
+            Margin="20,0,0,0"/>
+
+            <StackPanel Grid.Row="1">
+                <RadioButton Content="Home"
+                        Height="50"
+                        Foreground="white"
+                        FontSize="14"
+                        Style="{StaticResource MenuButtons}"/>
+
+                <RadioButton Content="Home"
+                        Height="50"
+                        Foreground="white"
+                        FontSize="14"
+                        Style="{StaticResource MenuButtons}"/>
+
+                <RadioButton Content="Home"
+                        Height="50"
+                        Foreground="white"
+                        FontSize="14"
+                        Style="{StaticResource MenuButtons}"/>
+
+                <RadioButton Content="Home"
+                        Height="50"
+                        Foreground="white"
+                        FontSize="14"
+                        Style="{StaticResource MenuButtons}"/>
+
+
+            </StackPanel>
+
+        </Grid>
+
+       
+    </Border>
+
 </Window>
