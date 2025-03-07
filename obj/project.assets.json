@@ -8,23 +8,23 @@
     "net9.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Drive3.SEDNA\\.nuget\\packages\\": {},
+    "C:\\Users\\kian\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Drive3.SEDNA\\source\\repos\\MiniProject\\Esfa_Micro_Project\\MiniProject.csproj",
+      "projectUniqueName": "H:\\Git_projects\\Esfa GUI\\MVVM MODEL\\Esfa_Micro_Project\\MiniProject.csproj",
       "projectName": "MiniProject",
-      "projectPath": "C:\\Users\\Drive3.SEDNA\\source\\repos\\MiniProject\\Esfa_Micro_Project\\MiniProject.csproj",
-      "packagesPath": "C:\\Users\\Drive3.SEDNA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Drive3.SEDNA\\source\\repos\\MiniProject\\Esfa_Micro_Project\\obj\\",
+      "projectPath": "H:\\Git_projects\\Esfa GUI\\MVVM MODEL\\Esfa_Micro_Project\\MiniProject.csproj",
+      "packagesPath": "C:\\Users\\kian\\.nuget\\packages\\",
+      "outputPath": "H:\\Git_projects\\Esfa GUI\\MVVM MODEL\\Esfa_Micro_Project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Drive3.SEDNA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kian\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

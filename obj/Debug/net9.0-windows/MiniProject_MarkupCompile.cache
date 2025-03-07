@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Drive3.SEDNA\source\repos\MiniProject\Esfa_Micro_Project\obj\Debug\net9.0-windows\
+H:\Git_projects\Esfa GUI\MVVM MODEL\Esfa_Micro_Project\obj\Debug\net9.0-windows\
 MiniProject
 none
 false
 TRACE;DEBUG;NET;NET9_0;NETCOREAPP
-C:\Users\Drive3.SEDNA\source\repos\MiniProject\Esfa_Micro_Project\App.xaml
-21976504593
+H:\Git_projects\Esfa GUI\MVVM MODEL\Esfa_Micro_Project\App.xaml
+32059399921
 
-61178347162
+101839299599
 200-1310591092
-MainWindow.xaml;Theme\MenuButtons.xaml;
+MainWindow.xaml;MVVM\View\HomeView.xaml;Theme\MenuButtons.xaml;
 
 False
 

@@ -1,21 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Drive3.SEDNA\\source\\repos\\MiniProject\\Esfa_Micro_Project\\",
+  "WorkspaceRootPath": "H:\\Git_projects\\Esfa GUI\\MVVM MODEL\\Esfa_Micro_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6C27213-DCD7-49D4-B034-74EEFE20FFDD}|MiniProject.csproj|c:\\users\\drive3.sedna\\source\\repos\\miniproject\\esfa_micro_project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{D6C27213-DCD7-49D4-B034-74EEFE20FFDD}|MiniProject.csproj|h:\\git_projects\\esfa gui\\mvvm model\\esfa_micro_project\\mvvm\\view\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D6C27213-DCD7-49D4-B034-74EEFE20FFDD}|MiniProject.csproj|solutionrelative:mvvm\\view\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C27213-DCD7-49D4-B034-74EEFE20FFDD}|MiniProject.csproj|h:\\git_projects\\esfa gui\\mvvm model\\esfa_micro_project\\mvvm\\view\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C27213-DCD7-49D4-B034-74EEFE20FFDD}|MiniProject.csproj|solutionrelative:mvvm\\view\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C27213-DCD7-49D4-B034-74EEFE20FFDD}|MiniProject.csproj|h:\\git_projects\\esfa gui\\mvvm model\\esfa_micro_project\\mvvm\\viewmodel\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C27213-DCD7-49D4-B034-74EEFE20FFDD}|MiniProject.csproj|solutionrelative:mvvm\\viewmodel\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C27213-DCD7-49D4-B034-74EEFE20FFDD}|MiniProject.csproj|h:\\git_projects\\esfa gui\\mvvm model\\esfa_micro_project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D6C27213-DCD7-49D4-B034-74EEFE20FFDD}|MiniProject.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6C27213-DCD7-49D4-B034-74EEFE20FFDD}|MiniProject.csproj|c:\\users\\drive3.sedna\\source\\repos\\miniproject\\esfa_micro_project\\theme\\menubuttons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D6C27213-DCD7-49D4-B034-74EEFE20FFDD}|MiniProject.csproj|solutionrelative:theme\\menubuttons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D6C27213-DCD7-49D4-B034-74EEFE20FFDD}|MiniProject.csproj|h:\\git_projects\\esfa gui\\mvvm model\\esfa_micro_project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C27213-DCD7-49D4-B034-74EEFE20FFDD}|MiniProject.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6C27213-DCD7-49D4-B034-74EEFE20FFDD}|MiniProject.csproj|c:\\users\\drive3.sedna\\source\\repos\\miniproject\\esfa_micro_project\\core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D6C27213-DCD7-49D4-B034-74EEFE20FFDD}|MiniProject.csproj|h:\\git_projects\\esfa gui\\mvvm model\\esfa_micro_project\\mvvm\\viewmodel\\discoveryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C27213-DCD7-49D4-B034-74EEFE20FFDD}|MiniProject.csproj|solutionrelative:mvvm\\viewmodel\\discoveryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C27213-DCD7-49D4-B034-74EEFE20FFDD}|MiniProject.csproj|h:\\git_projects\\esfa gui\\mvvm model\\esfa_micro_project\\core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6C27213-DCD7-49D4-B034-74EEFE20FFDD}|MiniProject.csproj|solutionrelative:core\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6C27213-DCD7-49D4-B034-74EEFE20FFDD}|MiniProject.csproj|c:\\users\\drive3.sedna\\source\\repos\\miniproject\\esfa_micro_project\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{D6C27213-DCD7-49D4-B034-74EEFE20FFDD}|MiniProject.csproj|h:\\git_projects\\esfa gui\\mvvm model\\esfa_micro_project\\core\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C27213-DCD7-49D4-B034-74EEFE20FFDD}|MiniProject.csproj|solutionrelative:core\\observableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\Git_projects\\Esfa GUI\\MVVM MODEL\\Esfa_Micro_Project\\obj\\Debug\\net9.0-windows\\MVVM\\View\\HomeView.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net9.0-windows\\MVVM\\View\\HomeView.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C27213-DCD7-49D4-B034-74EEFE20FFDD}|MiniProject.csproj|h:\\git_projects\\esfa gui\\mvvm model\\esfa_micro_project\\theme\\menubuttons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D6C27213-DCD7-49D4-B034-74EEFE20FFDD}|MiniProject.csproj|solutionrelative:theme\\menubuttons.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C27213-DCD7-49D4-B034-74EEFE20FFDD}|MiniProject.csproj|h:\\git_projects\\esfa gui\\mvvm model\\esfa_micro_project\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D6C27213-DCD7-49D4-B034-74EEFE20FFDD}|MiniProject.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C27213-DCD7-49D4-B034-74EEFE20FFDD}|MiniProject.csproj|h:\\git_projects\\esfa gui\\mvvm model\\esfa_micro_project\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C27213-DCD7-49D4-B034-74EEFE20FFDD}|MiniProject.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C27213-DCD7-49D4-B034-74EEFE20FFDD}|MiniProject.csproj|h:\\git_projects\\esfa gui\\mvvm model\\esfa_micro_project\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D6C27213-DCD7-49D4-B034-74EEFE20FFDD}|MiniProject.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -26,55 +62,192 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RelayCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Drive3.SEDNA\\source\\repos\\MiniProject\\Esfa_Micro_Project\\Core\\RelayCommand.cs",
-              "RelativeDocumentMoniker": "Core\\RelayCommand.cs",
-              "ToolTip": "C:\\Users\\Drive3.SEDNA\\source\\repos\\MiniProject\\Esfa_Micro_Project\\Core\\RelayCommand.cs",
-              "RelativeToolTip": "Core\\RelayCommand.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAIwCAAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "HomeView.xaml.cs",
+              "DocumentMoniker": "H:\\Git_projects\\Esfa GUI\\MVVM MODEL\\Esfa_Micro_Project\\MVVM\\View\\HomeView.xaml.cs",
+              "RelativeDocumentMoniker": "MVVM\\View\\HomeView.xaml.cs",
+              "ToolTip": "H:\\Git_projects\\Esfa GUI\\MVVM MODEL\\Esfa_Micro_Project\\MVVM\\View\\HomeView.xaml.cs",
+              "RelativeToolTip": "MVVM\\View\\HomeView.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAASwDIAAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T09:39:39.88Z",
+              "WhenOpened": "2025-03-07T15:56:04.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "H:\\Git_projects\\Esfa GUI\\MVVM MODEL\\Esfa_Micro_Project\\MVVM\\ViewModel\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "MVVM\\ViewModel\\HomeViewModel.cs",
+              "ToolTip": "H:\\Git_projects\\Esfa GUI\\MVVM MODEL\\Esfa_Micro_Project\\MVVM\\ViewModel\\HomeViewModel.cs",
+              "RelativeToolTip": "MVVM\\ViewModel\\HomeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:19:56.545Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\Drive3.SEDNA\\source\\repos\\MiniProject\\Esfa_Micro_Project\\App.xaml",
-              "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "C:\\Users\\Drive3.SEDNA\\source\\repos\\MiniProject\\Esfa_Micro_Project\\App.xaml",
-              "RelativeToolTip": "App.xaml",
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "H:\\Git_projects\\Esfa GUI\\MVVM MODEL\\Esfa_Micro_Project\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "H:\\Git_projects\\Esfa GUI\\MVVM MODEL\\Esfa_Micro_Project\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-03T09:24:37.083Z",
+              "WhenOpened": "2025-03-07T13:16:59.048Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MenuButtons.xaml",
-              "DocumentMoniker": "C:\\Users\\Drive3.SEDNA\\source\\repos\\MiniProject\\Esfa_Micro_Project\\Theme\\MenuButtons.xaml",
-              "RelativeDocumentMoniker": "Theme\\MenuButtons.xaml",
-              "ToolTip": "C:\\Users\\Drive3.SEDNA\\source\\repos\\MiniProject\\Esfa_Micro_Project\\Theme\\MenuButtons.xaml",
-              "RelativeToolTip": "Theme\\MenuButtons.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-03T08:53:30.664Z",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "H:\\Git_projects\\Esfa GUI\\MVVM MODEL\\Esfa_Micro_Project\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "H:\\Git_projects\\Esfa GUI\\MVVM MODEL\\Esfa_Micro_Project\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:57:39.075Z",
               "EditorCaption": ""
             },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DiscoveryViewModel.cs",
+              "DocumentMoniker": "H:\\Git_projects\\Esfa GUI\\MVVM MODEL\\Esfa_Micro_Project\\MVVM\\ViewModel\\DiscoveryViewModel.cs",
+              "RelativeDocumentMoniker": "MVVM\\ViewModel\\DiscoveryViewModel.cs",
+              "ToolTip": "H:\\Git_projects\\Esfa GUI\\MVVM MODEL\\Esfa_Micro_Project\\MVVM\\ViewModel\\DiscoveryViewModel.cs",
+              "RelativeToolTip": "MVVM\\ViewModel\\DiscoveryViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:19:57.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeView.g.i.cs",
+              "DocumentMoniker": "H:\\Git_projects\\Esfa GUI\\MVVM MODEL\\Esfa_Micro_Project\\obj\\Debug\\net9.0-windows\\MVVM\\View\\HomeView.g.i.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net9.0-windows\\MVVM\\View\\HomeView.g.i.cs",
+              "ToolTip": "H:\\Git_projects\\Esfa GUI\\MVVM MODEL\\Esfa_Micro_Project\\obj\\Debug\\net9.0-windows\\MVVM\\View\\HomeView.g.i.cs",
+              "RelativeToolTip": "obj\\Debug\\net9.0-windows\\MVVM\\View\\HomeView.g.i.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAEwJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:56:30.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ObservableObject.cs",
+              "DocumentMoniker": "H:\\Git_projects\\Esfa GUI\\MVVM MODEL\\Esfa_Micro_Project\\Core\\ObservableObject.cs",
+              "RelativeDocumentMoniker": "Core\\ObservableObject.cs",
+              "ToolTip": "H:\\Git_projects\\Esfa GUI\\MVVM MODEL\\Esfa_Micro_Project\\Core\\ObservableObject.cs",
+              "RelativeToolTip": "Core\\ObservableObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:19:53.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "H:\\Git_projects\\Esfa GUI\\MVVM MODEL\\Esfa_Micro_Project\\Core\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Core\\RelayCommand.cs",
+              "ToolTip": "H:\\Git_projects\\Esfa GUI\\MVVM MODEL\\Esfa_Micro_Project\\Core\\RelayCommand.cs",
+              "RelativeToolTip": "Core\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:19:52.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuButtons.xaml",
+              "DocumentMoniker": "H:\\Git_projects\\Esfa GUI\\MVVM MODEL\\Esfa_Micro_Project\\Theme\\MenuButtons.xaml",
+              "RelativeDocumentMoniker": "Theme\\MenuButtons.xaml",
+              "ToolTip": "H:\\Git_projects\\Esfa GUI\\MVVM MODEL\\Esfa_Micro_Project\\Theme\\MenuButtons.xaml",
+              "RelativeToolTip": "Theme\\MenuButtons.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-07T13:17:10.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.xaml",
+              "DocumentMoniker": "H:\\Git_projects\\Esfa GUI\\MVVM MODEL\\Esfa_Micro_Project\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "H:\\Git_projects\\Esfa GUI\\MVVM MODEL\\Esfa_Micro_Project\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-07T13:17:09.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "H:\\Git_projects\\Esfa GUI\\MVVM MODEL\\Esfa_Micro_Project\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "H:\\Git_projects\\Esfa GUI\\MVVM MODEL\\Esfa_Micro_Project\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T13:17:08.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "README.md",
+              "DocumentMoniker": "H:\\Git_projects\\Esfa GUI\\MVVM MODEL\\Esfa_Micro_Project\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "H:\\Git_projects\\Esfa GUI\\MVVM MODEL\\Esfa_Micro_Project\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-03-07T13:17:07.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "3b8d2254-8d4f-47bf-8d28-5df2587f83b4",
+        "Display": 0,
+        "X": 32,
+        "Y": 70,
+        "Width": 992,
+        "Height": 710,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Drive3.SEDNA\\source\\repos\\MiniProject\\Esfa_Micro_Project\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Drive3.SEDNA\\source\\repos\\MiniProject\\Esfa_Micro_Project\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
+              "Title": "HomeView.xaml",
+              "DocumentMoniker": "H:\\Git_projects\\Esfa GUI\\MVVM MODEL\\Esfa_Micro_Project\\MVVM\\View\\HomeView.xaml",
+              "RelativeDocumentMoniker": "MVVM\\View\\HomeView.xaml",
+              "ToolTip": "H:\\Git_projects\\Esfa GUI\\MVVM MODEL\\Esfa_Micro_Project\\MVVM\\View\\HomeView.xaml",
+              "RelativeToolTip": "MVVM\\View\\HomeView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-03T08:36:36.701Z",
+              "WhenOpened": "2025-03-07T13:20:00.906Z",
               "EditorCaption": ""
             }
           ]

@@ -10,10 +10,16 @@
 
   <ItemGroup>
     <Folder Include="Fonts\" />
-    <Folder Include="Images\" />
-    <Folder Include="MVVM\ViewModel\" />
     <Folder Include="MVVM\Model\" />
-    <Folder Include="MVVM\View\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="MVVM\View\Images\delete.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="MVVM\View\Images\edit.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>
