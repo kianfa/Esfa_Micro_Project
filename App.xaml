@@ -9,8 +9,8 @@
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
                 <ResourceDictionary Source="Theme/MenuButtons.xaml"/>
-                <!--<ResourceDictionary Source="Theme/TextboxTheme.xaml"/>-->
                 <ResourceDictionary Source="/Theme/CheckBoxes.xaml"/>
+                <!--<ResourceDictionary Source="/Theme/Save_As_PDF_MenuButtons.xaml"/>-->
             </ResourceDictionary.MergedDictionaries>
 
             
@@ -18,8 +18,12 @@
             <DataTemplate DataType="{x:Type ViewModel:HomeViewModel}" >
                 <view:HomeView/>
             </DataTemplate>
-            
-            
+
+            <!--<DataTemplate DataType="{x:Type ViewModel:TaskViewModel}" >
+                <view:SA/>
+            </DataTemplate>-->
+
+
             <!--<DataTemplate DataType="{x:Type ViewModel:DiscoveryViewModel}" >
                 <view:DiscoveryView/>
             </DataTemplate>-->

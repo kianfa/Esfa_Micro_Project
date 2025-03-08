@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET9_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 D:\Git_Projects\MicroProject\Esfa_Micro_Project\App.xaml
-4-2027169287
+6-1525128291
 
-14326776163
+15-644345490
 202-166389467
-MainWindow.xaml;MVVM\View\HomeView.xaml;Theme\CheckBoxes.xaml;Theme\MenuButtons.xaml;
+MainWindow.xaml;MVVM\View\HomeView.xaml;MVVM\View\SaveAsPDF_View.xaml;Theme\CheckBoxes.xaml;Theme\MenuButtons.xaml;Theme\Save_As_PDF_MenuButtons.xaml;
 
-False
+True
 

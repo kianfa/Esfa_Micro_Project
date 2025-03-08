@@ -102,3 +102,5 @@ D:\Git_Projects\MicroProject\Esfa_Micro_Project\bin\Debug\net9.0-windows\BouncyC
 D:\Git_Projects\MicroProject\Esfa_Micro_Project\bin\Debug\net9.0-windows\itextsharp.dll
 D:\Git_Projects\MicroProject\Esfa_Micro_Project\obj\Debug\net9.0-windows\MiniProject.csproj.AssemblyReference.cache
 D:\Git_Projects\MicroProject\Esfa_Micro_Project\obj\Debug\net9.0-windows\MiniProj.CA56B470.Up2Date
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\obj\Debug\net9.0-windows\MVVM\View\SaveAsPDF_View.g.cs
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\obj\Debug\net9.0-windows\Theme\Save_As_PDF_MenuButtons.baml

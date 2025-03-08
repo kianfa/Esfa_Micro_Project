@@ -28,20 +28,11 @@ namespace MiniProject.MVVM.ViewModel
             GeneratePdfCommand = new RelayCommand(GeneratePdf);
         }
 
-        private void AddTask(object parameter)
+        private void AddTask(object Written_Task)
         {
-            // Example: Add a new task (you can replace this with user input)
-            var task = new Services.Task
+            if (TaskValidator.Validate((Services.Task)Written_Task))
             {
-                Title = "New Task",
-                Description = "Description for the new task",
-                FinishDate = DateTime.Now.AddDays(7),
-                IsFinished = false
-            };
-
-            if (TaskValidator.Validate(task))
-            {
-                _tasks.Add(task);
+                _tasks.Add((Services.Task)Written_Task);
             }
         }
 
