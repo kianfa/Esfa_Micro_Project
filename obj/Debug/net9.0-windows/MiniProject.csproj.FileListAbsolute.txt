@@ -69,3 +69,36 @@ H:\Git_projects\Esfa GUI\MVVM MODEL\Esfa_Micro_Project\obj\Debug\net9.0-windows\
 H:\Git_projects\Esfa GUI\MVVM MODEL\Esfa_Micro_Project\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
 H:\Git_projects\Esfa GUI\MVVM MODEL\Esfa_Micro_Project\bin\Debug\net9.0-windows\MVVM\View\Images\delete.png
 H:\Git_projects\Esfa GUI\MVVM MODEL\Esfa_Micro_Project\bin\Debug\net9.0-windows\MVVM\View\Images\edit.png
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\bin\Debug\net9.0-windows\MiniProject.exe
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\bin\Debug\net9.0-windows\MVVM\View\Images\delete.png
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\bin\Debug\net9.0-windows\MVVM\View\Images\edit.png
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\bin\Debug\net9.0-windows\MiniProject.deps.json
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\bin\Debug\net9.0-windows\MiniProject.runtimeconfig.json
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\bin\Debug\net9.0-windows\MiniProject.dll
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\bin\Debug\net9.0-windows\MiniProject.pdb
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\obj\Debug\net9.0-windows\Theme\MenuButtons.baml
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\obj\Debug\net9.0-windows\MVVM\View\HomeView.g.cs
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\obj\Debug\net9.0-windows\App.g.cs
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\obj\Debug\net9.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\obj\Debug\net9.0-windows\MiniProject_MarkupCompile.cache
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\obj\Debug\net9.0-windows\MiniProject_MarkupCompile.lref
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\obj\Debug\net9.0-windows\App.baml
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\obj\Debug\net9.0-windows\MainWindow.baml
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\obj\Debug\net9.0-windows\MVVM\View\HomeView.baml
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\obj\Debug\net9.0-windows\MiniProject.g.resources
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\obj\Debug\net9.0-windows\MiniProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\obj\Debug\net9.0-windows\MiniProject.AssemblyInfoInputs.cache
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\obj\Debug\net9.0-windows\MiniProject.AssemblyInfo.cs
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\obj\Debug\net9.0-windows\MiniProject.csproj.CoreCompileInputs.cache
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\obj\Debug\net9.0-windows\MiniProject.sourcelink.json
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\obj\Debug\net9.0-windows\MiniProject.dll
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\obj\Debug\net9.0-windows\refint\MiniProject.dll
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\obj\Debug\net9.0-windows\MiniProject.pdb
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\obj\Debug\net9.0-windows\MiniProject.genruntimeconfig.cache
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\obj\Debug\net9.0-windows\ref\MiniProject.dll
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\obj\Debug\net9.0-windows\Theme\CheckBoxes.baml
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\bin\Debug\net9.0-windows\BouncyCastle.Cryptography.dll
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\bin\Debug\net9.0-windows\itextsharp.dll
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\obj\Debug\net9.0-windows\MiniProject.csproj.AssemblyReference.cache
+D:\Git_Projects\MicroProject\Esfa_Micro_Project\obj\Debug\net9.0-windows\MiniProj.CA56B470.Up2Date

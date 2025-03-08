@@ -1,8 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "R8HhMEsYwmg=",
+  "dgSpecHash": "M4P1F4PgRUw=",
   "success": true,
-  "projectFilePath": "H:\\Git_projects\\Esfa GUI\\MVVM MODEL\\Esfa_Micro_Project\\MiniProject.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "projectFilePath": "D:\\Git_Projects\\MicroProject\\Esfa_Micro_Project\\MiniProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Drive3.SEDNA\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
+    "C:\\Users\\Drive3.SEDNA\\.nuget\\packages\\itextsharp\\5.5.13.4\\itextsharp.5.5.13.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'iTextSharp 5.5.13.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net9.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "iTextSharp",
+      "targetGraphs": [
+        "net9.0-windows7.0"
+      ]
+    }
+  ]
 }
